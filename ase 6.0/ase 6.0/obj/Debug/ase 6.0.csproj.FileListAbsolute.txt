@@ -1,0 +1,11 @@
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\obj\Debug\ase 6.0.csproj.AssemblyReference.cache
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\obj\Debug\ase 6.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\obj\Debug\Project_Last.Form1.resources
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\obj\Debug\ase_6._0.Properties.Resources.resources
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\obj\Debug\ase 6.0.csproj.GenerateResource.cache
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\obj\Debug\ase 6.0.csproj.CoreCompileInputs.cache
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\bin\Debug\ase 6.0.exe.config
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\bin\Debug\ase 6.0.exe
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\bin\Debug\ase 6.0.pdb
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\obj\Debug\ase 6.0.exe
+C:\Users\Thoma\source\repos\ase 6.0\ase 6.0\obj\Debug\ase 6.0.pdb
